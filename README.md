@@ -12,3 +12,6 @@ Each of the level has a different speed by which the balls fall to the ground.
 There is a "Count" text which displays the score
 
 I have also added background music : Gravity Falls Main Theme
+
+All coding was done by me
+
