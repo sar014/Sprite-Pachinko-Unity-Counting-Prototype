@@ -712,7 +712,7 @@ GameObject:
   - component: {fileID: 145979415}
   m_Layer: 0
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2978,6 +2978,7 @@ MonoBehaviour:
   - {fileID: 790565942347507066, guid: a7a20132628ef11438d8ea859dc91700, type: 3}
   - {fileID: 2988004734492407831, guid: 10f5f00ef17636d4f8b29f2c7150dce1, type: 3}
   - {fileID: 4561467619501497360, guid: 2dfe1935e2cc88d4cba3986ce58440d9, type: 3}
+  - {fileID: 6931454433821872255, guid: c159fb6cf45896e4a91ec39341f97d5d, type: 3}
   gameOverText: {fileID: 1316176741}
   isGameActive: 0
   restartButton: {fileID: 924839739}
@@ -4834,7 +4835,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_BackGroundColor: {r: 0.7264151, g: 0.3392761, b: 0.13294762, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
